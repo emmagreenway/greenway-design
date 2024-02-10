@@ -8,16 +8,16 @@
  .filter-button {
      font-size: 18px;
      border: 1px solid #009e43;
-     border-radius: 30px;
+     border-radius: 10px;
      text-align: center;
      color: #009e43;
-     margin-bottom: 30px
+     margin-bottom: 10px
  }
 
  .filter-button:hover {
      font-size: 18px;
      border: 1px solid #009e43;
-     border-radius: 30px;
+     border-radius: 10px;
      text-align: center;
      color: #ffffff;
      background-color: #009e43

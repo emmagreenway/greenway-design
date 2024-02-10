@@ -121,7 +121,7 @@ ul li {
   -webkit-align-items: center;
   -webkit-justify-content: center;
   display: -webkit-inline-flex;
-  padding: 1rem 3rem;
+  padding: 0.5rem 2rem;
   border-radius: 3px;
 }
 .btn-sm {
@@ -3253,7 +3253,7 @@ body {
   color: #009e43 !important;
 }
 .cid-rkjS8i4Hc3 {
-  padding-top: 90px;
+  padding-top: 50px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
