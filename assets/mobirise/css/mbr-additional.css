@@ -67,7 +67,7 @@ ul li {
   font-size: 1.1rem;
   line-height: 1.4em;
   color: #767676 !important;
-  padding-bottom: 0.8em;
+  padding-bottom: 0em;
 }
 
 
@@ -507,7 +507,7 @@ ul li {
   color: #ffffff !important;
 }
 .text-black {
-  color: #000000 !important;
+  color: #212529 !important;
 }
 a.text-primary:hover,
 a.text-primary:focus {
