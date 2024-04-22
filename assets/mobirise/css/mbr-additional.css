@@ -5004,7 +5004,7 @@ body {
   background: #ffffff;
   transition: none;
   min-height: 77px;
-  padding: .5rem 0;
+  padding: .8rem 0;
 }
 .cid-rkjNhhy8IW .navbar-dropdown.bg-color.transparent.opened {
   background: #ffffff;
@@ -5132,7 +5132,7 @@ body {
   z-index: 1000;
 }
 .cid-rkjNhhy8IW .navbar.navbar-short {
-  min-height: 60px;
+  min-height: 77px;
   transition: all .2s;
 }
 .cid-rkjNhhy8IW .navbar.navbar-short .navbar-toggler-right {
