@@ -260,8 +260,8 @@ nav .mbr-section-btn {
   display: -o-flex;
   align-items: center;
   -webkit-align-items: center;
-  min-height: 100vh;
-  padding-top: 3rem;
+  min-height: 70vh;
+  padding-top: 9rem;
   padding-bottom: 3rem; }
 
 /*! Map */
