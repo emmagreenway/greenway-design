@@ -4299,17 +4299,7 @@ body {
   font-size: 3em;
   line-height: 1em;
 }
-.subheader .mbr-text H2 {
-  color: #767676;
-}
-.subheader {
-  padding-top: 90px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.subheader .mbr-text {
-  color: #767676;
-}
+
 .subheader .mbr-section-title {
   font-weight: 500;
   font-size: 5em;
@@ -4323,6 +4313,7 @@ body {
   font-weight: 500;
   font-size: 3em;
   line-height: 1em;
+  text-align: center;
   color: #767676;
   padding-bottom: 0.5em;
   }
