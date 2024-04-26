@@ -1835,6 +1835,7 @@ body {
   .cid-qTkA127IK8 H1 {
     letter-spacing: 0px;
     font-size: 5em;
+    padding-top: 1.5em;
   }
 }
 @media (min-width: 481px) and (max-width: 767px) {
@@ -5562,8 +5563,6 @@ body {
 @media screen and (max-width: 768px) {
   .mbr-fullscreen {
     min-height: 60vh;
-    padding-top: 5rem;
-    padding-bottom: 0rem;
 }
 }
 
