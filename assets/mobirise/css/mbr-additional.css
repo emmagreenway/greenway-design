@@ -29,6 +29,8 @@ body {
 .display-2 {
   font-family: 'Rubik', sans-serif;
   font-size: 3rem;
+  padding-left:1.5em;
+  padding-right: 1.5em;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
