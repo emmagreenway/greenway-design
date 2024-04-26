@@ -43,7 +43,8 @@ body {
 .display-5 {
   font-family: 'Rubik', sans-serif;
   font-size: 1.2rem;
-  padding:0.2em;
+  padding-left:1.5em;
+  padding-right: 1.5em;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
@@ -4314,7 +4315,7 @@ body {
 @media (min-width: 320px) and (max-width: 480px) {
   .subheader .mbr-section-title {
   font-weight: 500;
-  font-size: 3em;
+  font-size: 2.2em;
   line-height: 1em;
   text-align: center;
   color: #767676;
