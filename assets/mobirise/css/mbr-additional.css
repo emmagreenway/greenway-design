@@ -5484,7 +5484,7 @@ body {
   transition: all 0.3s ease-in-out;
   height: 100%;
   background-color: #ffffff;
-  box-shadow: 0 30px 80px rgba(90, 144, 225, 0.1);
+  box-shadow: 0 30px 80px #d3d3d3;
 }
 @media (max-width: 991px) {
   .cid-udjUun8d0h .card-wrapper {
