@@ -469,6 +469,10 @@ nav .mbr-section-btn {
 .card-wrapper {
   -webkit-flex: 1; }
 
+.card-box {
+  width: 100%;
+}
+
 .carousel-control {
   z-index: 10;
   display: -webkit-flex;
