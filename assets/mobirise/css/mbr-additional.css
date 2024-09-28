@@ -2076,7 +2076,6 @@ body {
 
 .cid-shr6L0x4b6 {
   padding-top: 30px;
-  padding-bottom: 90px;
   background-color: #ffffff;
 }
 .cid-shr6L0x4b6 .mbr-section-subtitle {
@@ -4378,7 +4377,6 @@ body {
   overflow: hidden;
 }
 .subheader .card-front img {
-  height: 100%;
   min-width: 100%;
   width: auto;
 }
@@ -5408,7 +5406,6 @@ body {
 
 
 .cid-udjUun8d0h {
-  padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
@@ -5488,7 +5485,7 @@ body {
 }
 @media (max-width: 991px) {
   .cid-udjUun8d0h .card-wrapper {
-    padding: 15px 5px 15px 20px;
+    padding: 30px;
   }
 }
 .cid-udjUun8d0h .card-wrapper:hover {
