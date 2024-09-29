@@ -709,7 +709,7 @@ a:hover {
   font-size: 1.4rem;
   line-height: 1.43;
   min-height: 3.5em;
-  padding: 1.07em .5em;
+  padding: 1em .5em;
 }
 .form-control > .mbr-iconfont {
   font-size: 2.24rem;
@@ -2462,6 +2462,10 @@ body {
   }
 }
 
+
+#list-styling{
+  text-align:left;
+}
 
 .cid-r58XhPNj4o {
   padding-top: 0px;
@@ -4311,9 +4315,9 @@ body {
 
 
 .subheader {
-  padding-top: 90px;
+  padding-top: 70px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  
 }
 .subheader .mbr-text {
   color: #767676;
@@ -4797,7 +4801,7 @@ body {
 }
 .cid-rklDzCVAiF {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rklDzCVAiF .title {
@@ -4823,9 +4827,9 @@ body {
   padding: 1rem 0;
 }
 .cid-rklDzCVAiF .wrapper .b-info {
-  width: 100%;
+  width: 90%;
 }
-@media (max-width: 767px) {
+@media (max-width: 600px) {
   .cid-rklDzCVAiF .iconfont-wrapper {
     display: none;
   }
@@ -5230,7 +5234,8 @@ body {
 }
 
 .cid-rklEfuDDkn {
-  padding-top: 90px;
+  margin-top:80px;
+  padding-top: 20px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
@@ -5279,8 +5284,7 @@ body {
   }
 }
 .cid-rklEsDMN8K {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding: 30px;
   background-color: #ffffff;
 }
 .cid-rklEsDMN8K .title {
@@ -5299,7 +5303,7 @@ body {
 .cid-rklEsDMN8K .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
-  max-width: 100%;
+  max-width: 90%;
 }
 .cid-rklEsDMN8K .input-group-btn {
   display: block;
